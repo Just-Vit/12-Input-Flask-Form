@@ -5,7 +5,7 @@ To run it,
 
 first, in a terminal clone the repository and "cd" to directory "12-Input-Flask-Form"
 
-    $ git clone https://github.com/vi-u/12-Input-Flask-Form.git   
+    $ git clone https://github.com/Just-Vit/12-Input-Flask-Form.git   
 
 then
 
